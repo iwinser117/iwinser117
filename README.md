@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hola , mi nombre es Iwinser Sanchez  :wave::+1:
 
-<!--
-**iwinser117/iwinser117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador FullStack **Javascript**, Egresado del Programa Misión TIC 2022:trophy:. Apasionado
+por la programación y el Desarrollo  de Software, Autodidacta y enfocado a resultados.
 
-Here are some ideas to get you started:
+Actualmente busco generar valor en los procesos y en la dinámica del software corporativo a una entidad que me permita
+demostrar mis habilidades técnicas y humanas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Blog Badge](https://img.shields.io/badge/Portafolio-iwinser.netlify.app-black)](https://iwinser.netlify.app/)
+
+#### :blue_heart: Lenguajes de programacion...
+
+Java
+
+Python
+
+JavaScript
+
+
+
+
+<p align="center">
+  <img width="360" height="200" src="https://user-images.githubusercontent.com/77251836/209884092-ec32bcf0-3e05-4633-972d-2f13afba4de6.svg">
+</p>
