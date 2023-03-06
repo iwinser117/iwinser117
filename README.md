@@ -3,9 +3,11 @@
 Soy desarrollador FullStack **Javascript**, Egresado del Programa Misión TIC 2022:trophy:. Apasionado
 por la programación y el Desarrollo  de Software, Autodidacta y enfocado a resultados.
 
-Actualmente busco generar valor en los procesos y en la dinámica del software corporativo a una entidad que me permita
-demostrar mis habilidades técnicas y humanas.
+Estoy comprometido con el aprendizaje continuo y la mejora de mis habilidades técnicas y blandas para mantenerme actualizado en un campo en constante evolución.
+Actualmente desarrollo en SAP (SCP) colaboro en  los procesos y en la dinámica del software corporativo de la empresa, aprendiendo dia a dia con los nuevos retos.
 
+
+aprendiendo **SQl** y **SAPUI5**.
 
 
 #### :blue_heart: Lenguajes de programacion...
