@@ -1,39 +1,26 @@
-## Hola , mi nombre es Iwinser Sanchez  :wave:
+## Hola :wave:
 
-Soy desarrollador FullStack **Javascript**, Egresado del Programa Misión TIC 2022:trophy:. Apasionado
-por la programación y el Desarrollo  de Software, Autodidacta y enfocado a resultados.
+Soy Iwinser Sanchez, un desarrollador FullStack **Javascript**. Actualmente trabajo como Consultor SCP (SAP) y soy egresado del Programa Misión TIC 2022 :trophy:. Apasionado por la programación y el desarrollo de software, autodidacta y enfocado en resultados.
 
-Estoy comprometido con el aprendizaje continuo y la mejora de mis habilidades técnicas y blandas para mantenerme actualizado en un campo en constante evolución.
-Actualmente desarrollo en SAP (SCP) colaboro en  los procesos y en la dinámica del software corporativo de la empresa, aprendiendo dia a dia con los nuevos retos.
+### Sobre Mí
 
+Estoy comprometido con el aprendizaje continuo y la mejora de mis habilidades técnicas y blandas para mantenerme actualizado en un campo en constante evolución. Actualmente desarrollo en SAP (SCP), colaborando en los procesos y en la dinámica del software corporativo de la empresa, enfrentando nuevos retos día a día.
 
-aprendiendo **SQl** y **SAPUI5**.
+Aprendiendo **SQL** y **SAPUI5**.
 
+#### :blue_heart: Lenguajes de programación
 
-#### :blue_heart: Lenguajes de programacion...
+- Java
+- Python
+- JavaScript
 
+#### :zap: Stack Tecnológico
 
-  
-  :small_orange_diamond: Java <br>
-  :small_blue_diamond: Python <br>
-  :small_orange_diamond: JavaScript <br>
- 
-  
-
-
-#### :zap: Stack Tecnologico
-+ MERN (MongoDB, Express,React, NodeJS)
-+ Html y Css, Bootstrap.
-
+- MERN (MongoDB, Express, React, NodeJS)
+- HTML y CSS, Bootstrap.
 
 [![Blog Badge](https://img.shields.io/badge/Portafolio-iwinser.netlify.app-black)](https://iwinser.netlify.app/)
 
 <p align="center">
   <img width="260" height="100" src="https://user-images.githubusercontent.com/77251836/209884092-ec32bcf0-3e05-4633-972d-2f13afba4de6.svg">
 </p>
-
-<img src="https://user-images.githubusercontent.com/77251836/224594785-61144276-87d6-4640-be32-cff1aec2c45b.png" alt="Descripción de la imagen" width="30">
-
-
-
-
