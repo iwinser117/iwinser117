@@ -28,7 +28,7 @@ Estoy comprometido con el aprendizaje continuo y la mejora de mis habilidades t√
 - MongoDB
 - Odata
 
-[![Blog Badge](https://img.shields.io/badge/Portafolio-iwinser.netlify.app-black)]([https://iwinsersanchez.netlify.app/]))
+[![Blog Badge](https://img.shields.io/badge/Portafolio-iwinser.netlify.app-black)]([https://iwinsersanchez.netlify.app/])
 
 <p align="center">
   <img width="230" height="100" src="https://user-images.githubusercontent.com/77251836/209884092-ec32bcf0-3e05-4633-972d-2f13afba4de6.svg">
