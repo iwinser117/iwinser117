@@ -2,8 +2,6 @@
 
 ## Desarrollador FullStack Javascript | Consultor SAP (SCP)
 
-![Banner](https://user-images.githubusercontent.com/77251836/209884092-ec32bcf0-3e05-4633-972d-2f13afba4de6.svg)
-
 ---
 
 ### 👋 Hola, bienvenido a mi perfil de GitHub
