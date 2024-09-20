@@ -44,7 +44,7 @@ Soy un desarrollador **FullStack Javascript** con experiencia en consultoría SA
 ### 🌐 Conéctate conmigo
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-iwinsersanchez.netlify.app-black?style=for-the-badge&logo=netlify)](https://iwinsersanchez.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iwinser_Sánchez-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iwinser-sanchez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iwinser_Sánchez-0077B5?style=for-the-badge&logo=linkedin)](linkedin.com/in/iwinser-aljadys-sanchez-0a62a0234)
 [![GitHub](https://img.shields.io/badge/GitHub-Iwinser-181717?style=for-the-badge&logo=github)](https://github.com/Iwinser)
 
 ---
