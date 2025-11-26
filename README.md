@@ -1,77 +1,106 @@
-# Iwinser Sánchez
+<div align="center">
+  
+  # Iwinser Sánchez
+  
+  ### 💻 Desarrollador FullStack JavaScript
+  ### ☁️ Especialista en Integración Empresarial & SAP BTP
+  
+  <p>
+    <i>"Construyendo puentes entre arquitecturas web modernas y sistemas empresariales robustos."</i>
+  </p>
 
-## Desarrollador FullStack JavaScript | Consultor SAP BTP (CAP, UI5, Fiori, S/4HANA)
+  <a href="https://iwinsersanchez.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-Ver_Proyectos-70cf23?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/iwinser-aljadys-sanchez-0a62a0234" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/iwinser117" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:iwinser.sanchez47@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
----
-
-### 👋 Bienvenido
-
-Soy un **Desarrollador FullStack JavaScript** con experiencia en consultoría SAP BTP, SAP Fiori y desarrollo de aplicaciones empresariales.  
-Egresado del programa **Misión TIC 2022**, me apasiona construir soluciones tecnológicas que generan impacto en procesos corporativos, combinando el aprendizaje autodidacta con un enfoque eficiente en resultados.
-
----
-
-### 🚀 Sobre mí
-
-- 💼 **Posición actual:** Consultor SAP BTP (desarrollo en CAP, UI5, integración con SAP Fiori y S/4HANA).  
-- 🌱 Entusiasta del aprendizaje continuo, actualmente fortaleciendo mis habilidades con nuevas tecnologías.  
-- 🎓 Certificaciones destacadas: Desarrollo de Software (Misión TIC 2022), Full Stack Developer y Front-End con React (Platzi).  
-- 📍 Ubicación: Soacha, Cundinamarca, Colombia.  
-- 🌐 Idiomas: Español nativo | Inglés (nivel A2).
-
----
-
-### 💻 Habilidades Técnicas
-
-| Categoría        | Tecnologías / Herramientas                                          |
-|------------------|---------------------------------------------------------------------|
-| **Lenguajes**     | JavaScript, Java, Python                                            |
-| **Frontend**      | React, Next.js, SAPUI5, SAP Fiori, HTML5, CSS3, Tailwind CSS, Bootstrap |
-| **Backend**       | Node.js, Express, CAP (SAP Cloud Application Programming), OData, REST APIs |
-| **Bases de Datos**| MongoDB, SQL                                                        |
-| **SAP**           | SAP BTP, CAP (Node.js + PostgreSQL), SAPUI5, SAP Fiori, S/4HANA, OData services |
-| **Herramientas**  | Git, Jira                                                           |
-| **Habilidades Blandas** | Trabajo en equipo, liderazgo, adaptabilidad, pensamiento crítico, atención al detalle, inteligencia emocional |
+</div>
 
 ---
 
-### 🎯 Servicios y Enfoque Profesional
+### 👋 Sobre mí
 
-- **Desarrollo Web FullStack** con React, Next.js, Node.js y bases de datos.  
-- **Consultoría SAP BTP**: Implementación y soporte en CAP, Fiori, S/4HANA y servicios OData.  
-- **Optimización de procesos corporativos** mediante aplicaciones empresariales.  
-- **Colaboración en entornos ágiles**, asegurando entregables de calidad.  
-- **Aprendizaje continuo**, adoptando nuevas tecnologías y mejores prácticas de la industria.
+Soy un **Desarrollador FullStack** enfocado en crear soluciones escalables. Mi fortaleza radica en combinar la agilidad del ecosistema **JavaScript (React, Node.js)** con la robustez requerida en entornos corporativos **(SAP, SQL, NoSQL)**.
+
+Actualmente, ayudo a empresas a modernizar sus procesos integrando interfaces modernas con sistemas *core* como SAP S/4HANA, asegurando rendimiento y una excelente experiencia de usuario.
 
 ---
 
-### 🎓 Educación y Certificaciones
+### 🛠️ Arsenal Tecnológico
 
-- **Ingeniería de Sistemas (en curso)**  
-  Universidad Nacional Abierta y a Distancia – UNAD (Inicio: 2025).  
-- **Diplomados (Misión TIC 2022)**: Desarrollo de Software, Java, Python.  
-- **Cursos (Platzi)**: Full Stack JavaScript, Front-End con React, React.js práctico.  
-
----
-
-### 🌐 Conéctate conmigo
-
-<a href="https://iwinsersanchez.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-iwinsersanchez.netlify.app-black?style=for-the-badge&logo=netlify" />
-</a>
-
-<a href="https://linkedin.com/in/iwinser-aljadys-sanchez-0a62a0234" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Iwinser_Sánchez-0077B5?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://github.com/iwinser117" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Iwinser-181717?style=for-the-badge&logo=github" />
-</a>
- 
-📧 **Email:** iwinser.sanchez47@gmail.com  
+| Dominio | Stack & Herramientas |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
+| **Backend & API** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![REST](https://img.shields.io/badge/REST_API-005571?style=flat&logo=postman&logoColor=white) ![OData](https://img.shields.io/badge/OData-FV-orange?style=flat) |
+| **Bases de Datos** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) |
+| **Enterprise (SAP)** | ![SAP BTP](https://img.shields.io/badge/SAP_BTP-0070F2?style=flat&logo=sap&logoColor=white) ![SAP CAP](https://img.shields.io/badge/CAP_Framework-Node.js-yellow?style=flat) ![Fiori](https://img.shields.io/badge/SAP_Fiori-UI5-blue?style=flat) |
+| **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
 ---
 
-<p align="center">
-  <i>¡Gracias por visitar mi perfil! Si deseas colaborar o compartir ideas, estaré encantado de conectar contigo.</i>
-</p>
+### 🚀 Servicios y Experiencia
+
+#### 💻 Desarrollo Web FullStack
+* Diseño e implementación de aplicaciones web responsivas usando **React y Next.js**.
+* Construcción de APIs RESTful escalables con **Node.js y Express**.
+* Modelado de bases de datos híbridas (Relacionales y Documentales).
+
+#### ☁️ Consultoría SAP & Integración
+* Desarrollo de extensiones en la nube (**SAP BTP**) utilizando el modelo **CAP (Node.js)**.
+* Creación de aplicaciones **SAPUI5 / Fiori** para mejorar la experiencia de usuario corporativa.
+* Conexión de sistemas externos con SAP S/4HANA mediante servicios OData.
+
+---
+
+### 🎓 Educación
+
+* **Ingeniería de Sistemas (En curso)** | *UNAD (2025)*
+* **Diplomado Desarrollo de Software** | *Misión TIC 2022 (Ministerio TIC Colombia)*
+* **Certificaciones Frontend & Backend** | *Platzi (Ruta React.js & Node.js)*
+
+---
+
+
+<div align="center">
+  
+  <br>
+  <br>
+  
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <b>📍 Ubicación</b><br>
+        <sub>Soacha, Colombia 🇨🇴</sub>
+      </td>
+      <td align="center" width="200">
+        <b>🗣️ Idiomas</b><br>
+        <sub>Español • Inglés (A2)</sub>
+      </td>
+      <td align="center" width="200">
+        <b>💼 Disponibilidad</b><br>
+        <sub>Remoto / Presencial</sub>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <a href="mailto:iwinser.sanchez47@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/✉️_Contáctame-iwinser.sanchez47@gmail.com-EA4335?style=for-the-badge&logoColor=white" alt="Email"/>
+  </a>
+  
+  <br><br>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=70cf23&height=80&section=footer" />
+  
+  <sub>💚 Construyendo el futuro, una línea de código a la vez | © 2025</sub>
+  
+</div>
