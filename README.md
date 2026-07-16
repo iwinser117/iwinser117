@@ -146,9 +146,9 @@ Automatización de gestión de correo empresarial a escala.
 - Facultad de Ingeniería, Universidad de Antioquia
 
 **Certificaciones Especializadas**
-- <a href="#" target="_blank">Full Stack Developer con JavaScript - Platzi</a>
-- <a href="#" target="_blank">FrontEnd Developer con React - Platzi</a>
-- <a href="#" target="_blank">Curso Práctico de React.js - Platzi</a>
+- Full Stack Developer con JavaScript - Platzi
+- FrontEnd Developer con React - Platzi
+- Curso Práctico de React.js - Platzi
 
 ---
 
